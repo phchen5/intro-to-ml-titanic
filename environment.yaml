@@ -1,0 +1,11 @@
+name: titanic
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+prefix: /Users/benchen/miniconda3/envs/titanic
